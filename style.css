@@ -46,7 +46,7 @@ nav a:hover {
 }
 
 .home .content {
-  margin-top: 120px;
+  margin-top: 140px;
   height: 40%;
   display: flex;
   flex-direction: column;
@@ -56,14 +56,14 @@ nav a:hover {
 
 .home .content .one {
   color: whitesmoke;
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 400;
 }
 
 .home .content .two {
   color: whitesmoke;
   font-family: "Open Sans", sans-serif;
-  font-size: 70px;
+  font-size: 80px;
   font-weight: bolder;
 }
 .home .content button {
@@ -105,12 +105,13 @@ nav a:hover {
 
 .services .intro .title {
   font-family: "Open Sans", sans-serif;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 900;
 }
 
 .services .intro .sub-title {
   font-style: italic;
+  font-size: 18px;
   color: rgb(94, 92, 92);
 }
 
@@ -128,17 +129,17 @@ nav a:hover {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 25px;
+  padding: 10px;
   text-align: center;
 }
 
-.services .cards .card h4 {
+.services .cards .card h3 {
   font-family: "Open Sans", sans-serif;
 }
 
 .services .cards .card p {
   color: gray;
-  font-size: medium;
+  font-size: larger;
 }
 
 /* CONTACT US SECTION  */

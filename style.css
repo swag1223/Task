@@ -92,7 +92,6 @@ nav a:hover {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  padding: 20px;
 }
 
 .services .intro {
@@ -150,7 +149,6 @@ nav a:hover {
   justify-content: space-around;
   align-items: center;
   background: url(./images/bg2.jpg) no-repeat top center/cover;
-  padding: 20px;
   width: 100vw;
 }
 
@@ -166,7 +164,7 @@ nav a:hover {
 
 .contact-us .contact-us-title h3 {
   font-family: "Open Sans", sans-serif;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 900;
   color: white;
 }
